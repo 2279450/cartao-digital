@@ -1,0 +1,7 @@
+# Arquivos desnecessários
+.DS_Store
+Thumbs.db
+*.log
+*.cache
+.vscode/
+.idea/
